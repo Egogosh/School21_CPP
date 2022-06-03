@@ -1,7 +1,7 @@
 # School21_CPP
 C++ priscine for school 21, days from 00 to 08
 
-Day 00: 
+Day 00: primitives of C++
 Day 01: 
 Day 02: 
 Day 03: 
